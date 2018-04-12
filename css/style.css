@@ -827,3 +827,62 @@ section#jobs {
 
 }
 
+
+@media (max-width: 400px) {
+.submit-btn, .submit-btn:active, .submit-btn:focus, .submit-btn:visited{
+	font-size: 16px;
+}
+.home_text h1 {
+    
+    font-size: 29px;    
+   
+}
+.home_text p {
+    
+    line-height: 22px;
+    
+}
+.section_title h2 {
+	font-size: 20px;
+}
+.inner_about_title h2 {
+    
+    font-size: 18px;
+    line-height: 25px;
+    
+}
+.inner_about_area {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.right_single_feature h3 {
+    
+    font-size: 18px;
+    
+}
+.header_phone {
+    
+    font-size: 17px;
+}
+.section_title {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.right_single_feature {
+    
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+section#jobs {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+img.guarantee_image {
+   
+    max-width: 240px;
+}
+svg {
+	background-color: #f39c12;
+	border-radius: 50%;
+}
+}
