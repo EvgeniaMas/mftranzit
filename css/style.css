@@ -101,11 +101,12 @@ p {
     background: url(../images/home.jpg);
     background-size: cover;
 	background-repeat: no-repeat;
-    height: 100vh;
+	background-position: center top;
+    min-height:640px;
 }
 .header .section_overlay {
     background-color: rgba(33, 33, 33, .5);
-     height: 100vh;
+    min-height:640px;
 }
 .logo{
     padding-bottom: 20px;
