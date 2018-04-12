@@ -814,5 +814,16 @@ section#jobs {
     padding-bottom: 15px;
     padding-top: 15px;
 }
+
+.submit-btn,
+.submit-btn:active,
+.submit-btn:focus,
+.submit-btn:visited,
+.form-control {
+    
+    height: 40px;   
+    width: 90%;    
+}
+
 }
 
