@@ -102,11 +102,11 @@ p {
     background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center top;
-    min-height:640px;
+    height:100vh;
 }
 .header .section_overlay {
     background-color: rgba(33, 33, 33, .5);
-    min-height:640px;
+    height:100vh;
 }
 .logo{
     padding-bottom: 20px;
