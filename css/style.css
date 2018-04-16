@@ -920,4 +920,5 @@ p.order_pricelist {
     text-align: center;
     color: #fff;
     font-size: 20px;
+    text-transform: uppercase;
 }
